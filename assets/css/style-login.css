@@ -1,0 +1,46 @@
+body,html{
+	height: 100%;
+}
+body {
+	margin: 0;
+  }
+  #loading-screen {
+	background-color: rgba(25,25,25,0.7);
+	height: 100%;
+	width: 100%;
+	position: fixed;
+	z-index: 9999;
+	margin-top: 0;
+	top: 0;
+	text-align: center;
+  }
+  #loading-screen img {
+	width: 100px;
+	height: 100px;
+	position: relative;
+	margin-top: -50px;
+	margin-left: -50px;
+	top: 50%;
+  }
+.izquierda{
+	background-image: url("../img/fondo_login.jpg");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.izquierda2{
+	background-image: url("../img/fondo_registro.jpg");
+	background-position: right bottom;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.btn-primary{
+	background-color: rgb(122, 112, 158) !important;
+	border-radius: 10px;
+}
+.btn-danger{
+	border-radius: 10px;
+}
+.btn-primary:active{
+	background-color: rgb(108, 99, 139) !important;
+}
