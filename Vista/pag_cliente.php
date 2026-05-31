@@ -78,7 +78,7 @@ require 'encabezado.php';
   </div>
 <!--Modal para registro-->
 
-<!--Modal para actualizar-->
+<!-- Modal para actualizar -->
 <div class="modal fade" id="actualizarCliente" tabindex="-1" role="dialog" aria-labelledby="exampleModalScrollableTitle" aria-hidden="true">
     <div class="modal-dialog modal-dialog-scrollable" role="document">
       <div class="modal-content">

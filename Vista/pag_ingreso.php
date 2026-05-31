@@ -22,7 +22,7 @@ require 'encabezado.php';
                 $Cargar = new Cargar();
                 $Cargar->ingresos();
                 ?>
-                <!-- Cuerpo de la página-->
+                <!--Cuerpo de la página-->
             </div>
         </div>
 

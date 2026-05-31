@@ -4,7 +4,8 @@ body,html{
 body {
 	margin: 0;
   }
-  #loading-screen {
+ 
+   #loading-screen {
 	background-color: rgba(25,25,25,0.7);
 	height: 100%;
 	width: 100%;
@@ -22,6 +23,7 @@ body {
 	margin-left: -50px;
 	top: 50%;
   }
+  
 .izquierda{
 	background-image: url("../img/fondo_login.jpg");
 	background-position: center center;
